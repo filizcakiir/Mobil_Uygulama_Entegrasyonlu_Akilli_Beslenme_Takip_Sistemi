@@ -15,6 +15,21 @@ GastronomGöz, bir yemeğin fotoğrafından türünü tanıyan, derinlik ve segm
 
 ---
 
+## Ekran Görüntüleri
+
+### Yemek Segmentasyonu
+| Orijinal Görsel | Segmentasyon Sonucu |
+|-----------------|---------------------|
+| ![Orijinal](docs/images/food_original.jpg) | ![Segmentasyon](docs/images/food_segmentation.jpg) |
+
+### Backend API
+![Backend API](docs/images/backend_api.png)
+
+### JWT Kimlik Doğrulama
+![JWT Auth](docs/images/jwt_auth.png)
+
+---
+
 ## Teknoloji Yığını
 
 ### Backend (Python/Flask)
@@ -191,13 +206,6 @@ flutter run
 
 ---
 
-## Ekran Görüntüleri
-
-### Segmentasyon Örneği
-![Segmentasyon](static/uploads/mask_donut.png)
-
----
-
 ## Lisans
 
 MIT License
@@ -207,7 +215,3 @@ MIT License
 ## İletişim
 
 **Filiz Çakır**
-Bilecik Şeyh Edebali Üniversitesi
-Bilgisayar Mühendisliği Bölümü
-
-**Danışman:** Prof. Dr. Uğur Yüzgeç
